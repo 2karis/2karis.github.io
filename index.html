@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<meta charset="utf-8">
+<title>SiliconSavannah</title>
+<link rel="stylesheet" href="style.css">
+<body>
+    <div class="page">
+        <table>
+            <tr>
+                <td class="image" align="center">
+                    <img class="potrait" src="me.jpg" atl="image of me">
+                </td>
+                <td class="desciption">
+                    <h1>The Silicon Savannah</h1>
+                    <h3>Kariuki Gitau</h3>
+                    <p><a href="http://www.cs.gsu.edu/">http://www.cs.gsu.edu/</a></p>
+                    <p>Hi, my name is Kariuki, I'm a techie who loves programming.<br>
+                    I like to approach every project as both a challenge and an opportunity to learn. <br>
+                    I'm constantly learning new technologies and concepts and strive to be a better developer every day.<br>
+                    I've played around with a wide range of projects all of which you can see from my GitHub.</p>
+                    <p><a href="https://github.com/2karis">github</a>  |  <a href="https://www.linkedin.com/in/kariukigitau/">linkedin</a>  |  <a href="https://gsu.joinhandshake.com/users/7413484">handshake</a></p>
+                    <p> my interests are :</p>
+                    <ul>
+                        <li>Gaming</li>
+                        <li>Playing Guitar</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div >
+        <table class="page">
+            <tr>
+                <td class="qualifications">
+                    <h2>Relevant Work Experience</h2>
+                    <h3>Aflac</h3>
+                    <p>May 2020 - August 2020</p>
+                    <p>information Technology co-op</p>
+                    <ul>
+                        <li>Developed Dashboards using Splunk to monitor the teams file processing services.</li>
+                        <li>Developed functionality to existing applications that helped meet business needs.</li>
+                        <li>Developed Both Unit tests and Smoke tests to improve the Code quality of the applications managed by the team.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="qualifications">
+                    <h2>Education</h2>
+                    <h3>Georgia State University</h3>
+                    <p>August 2017 - August 2021</p>
+                    <p>curicular activities</p>
+                    <ul>
+                        <li>Panther Hackers</li>
+                        <li>Computer Science Club</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+     <div >
+        <table class="page">
+            <tr>
+                <td class="qualifications">
+                    <table class="assignments">
+                        <tr>
+                            <td colspan="2"><h2>Assignment List</h2></th>
+                        </tr>
+                        <tr>
+                            <th>Assignment</th>
+                            <th>link</th>
+                        </tr>
+                        <tr>
+                            <td>Assignment 1: create a home page</td>
+                            <td><a href="#">link</a></td>
+                        </tr>
+                        <tr>
+                            <td>Assignment 2: Do Something</td>
+                            <td><a href="#">link</a></td>
+                        </tr>
+                        <tr>
+                            <td>Assignment 3: Do Something Else</td>
+                            <td><a href="#">link</a></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html> 
